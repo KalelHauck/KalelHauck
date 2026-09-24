@@ -1,31 +1,26 @@
 <div>
   <h1>Prazer, Kalel Hauck 👋🏻</h1>
   <p>
-    <b>Desenvolvedora Full Stack</b> | <b>Analista de Testes na Serasa Experian
-    Ribeirão Preto, São Paulo, Brasil
+    <b>Desenvolvedor Full Stack</b> |
+    Juiz de Fora, Minas Gerais, Brasil
   </p>
   
 </div>
 
 <hr />
 
-## 👩🏾‍💻 Sobre mim
+## 👨🏻‍💻 Sobre mim
 
-Desenvolvedora Full Stack especializada em aplicações web modernas, performáticas e acessíveis. Tenho experiência prática com React, Next.js, Node.js e SQL, criando interfaces interativas e sistemas escaláveis.
+Sou estudante de desenvolvimento de software há quase 4 anos, com foco no ecossistema JavaScript e no desenvolvimento de aplicações Full Stack. Possuo conhecimento intermediário em JavaScript e experiência com tecnologias como React, além de conhecimentos complementares em Python e bancos de dados.
 
-- Participo de projetos próprios e colaborativos, com foco em UX, qualidade de código e arquitetura limpa.  
-- Domino o ecossistema JavaScript/TypeScript e práticas atuais de desenvolvimento frontend e backend.  
-- Trabalho com metodologias ágeis, Git e integração contínua para entregas ágeis e organizadas.  
-- Também atuo como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, formando novos talentos da área.  
-- Busco criar soluções tecnológicas com impacto real, propósito e acessibilidade.
-
+Atualmente, continuo aprofundando meus estudos em desenvolvimento web, buscando aprimorar tanto minhas habilidades de Front-end quanto de Back-end e ampliar minha experiência por meio de projetos práticos.
 <hr />
 
 ## ✨ Projetos em destaque
 
 - [Casa Oliveira Restaurante](https://github.com/KalelHauck/casa-oliveira-restaurante) – Landing Page de um restaurante de comidas da estação.
-- [Projeto Corvo](https://github.com/TabsMacedo/projeto-corvo) – Aplicação com foco em usabilidade e integração de recursos modernos.
-- [Projeto Kidopi](https://github.com/TabsMacedo/projeto-kidopi) – Solução web com arquitetura escalável e foco em boas práticas.
+- [Frontend Ong para adoção de animais](https://github.com/KalelHauck/frontend-ong) – Plataforma web para adoção de animais.
+- [Backend Ong para adoção de animais](https://github.com/KalelHauck/backend-ong) – API backend para adoção de animais.
 
 <hr />
 
